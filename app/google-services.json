@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "919297472740",
+    "firebase_url": "https://demoschoolbyjishan.firebaseio.com",
+    "project_id": "demoschoolbyjishan",
+    "storage_bucket": "demoschoolbyjishan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919297472740:android:72a6e222e3e7c62a",
+        "android_client_info": {
+          "package_name": "com.school.jishan.demoschoolbyjishan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919297472740-6t6n0ksaskbsbr8tl94oraf6ie1kkbpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school.jishan.demoschoolbyjishan",
+            "certificate_hash": "095d83a72e02d37adce3ef83a0e8c545002f12db"
+          }
+        },
+        {
+          "client_id": "919297472740-ps1ki2j2b5nb7p0g21mn1ehlift14b72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQso9pf9yuHT5L27q9xDQh7emeHvRITQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919297472740-ps1ki2j2b5nb7p0g21mn1ehlift14b72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

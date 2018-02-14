@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo School By Jishan</string>
+    <string name="dont">Do not have Account</string>
+    <string name="register">Register</string>
 </resources>
